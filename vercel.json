@@ -4,7 +4,7 @@
       "path": "/api/cron/scrape",
       "schedule": "*/30 * * * *"
     }
-  ],
+{
   "functions": {
     "pages/api/cron/scrape.js": {
       "maxDuration": 300
